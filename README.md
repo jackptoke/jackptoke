@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## I am currently learning ...
+Currently I am completing my Data Engineering Bootcamp with Le Wagon.  I am working on the final project, which is an ETL pipeline processing real estate data from an API using **Apache Airflow**, **DBT**, **Apache Spark** and **Streamlit**.  For the data warehouse, I'll be using **Minio**, **Snowflake** and **Postgres**.
+
 <!--
 **jackptoke/jackptoke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
