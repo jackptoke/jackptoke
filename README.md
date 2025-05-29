@@ -1,7 +1,10 @@
 ## Hi there 👋
 
-## What am I up to?
-Currently I am completing my Data Engineering Bootcamp with Le Wagon.  I am working on the final project, which is an ETL pipeline processing real estate data from an API using **Apache Airflow**, **DBT**, **Apache Spark** and **Streamlit**.  For the data warehouse, I'll be using **Minio**, **Snowflake** and **Postgres**.  The whole projected will be hosted on **Amazon EKS** with **Kubernetes Executor** and **Rancher**.
+## Who am I?
+After almost 7 years working in refugee camp in Thailand and remote villages in Myanmar (Burma), I returned to Australia just before COVID to build a life for myself and provide some stability for my family.  I initially worked in a factory while upskilling myself to break into the IT industry.  A year and a half of hard work paid of and I was able to work as a software developer in the last two years. I built everything from web applications (full-stack) to mobile applications.  There were times that I was asked to provide reports from a massive database.  This lead me to be interested in data engineering work and pursue a career as a Data Engineer.
+
+## Skills
+Currently I am working on perfecting my skills in building complete data pipelines using **Dagster**, **DBT** and **DuckDB**/**Snowflake**/**BigQuery**/**AWS S3**.  I have worked with **Airflow** but I just prefer **Dagster** for job scheduling and orchestrations.  I can work comfortably with either **AWS** or **GCP**.
 
 <!--
 **jackptoke/jackptoke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
