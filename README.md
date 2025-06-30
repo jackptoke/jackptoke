@@ -4,7 +4,7 @@
 After almost 7 years working in refugee camp in Thailand and remote villages in Myanmar (Burma), I returned to Australia just before COVID to build a life for myself and provide some stability for my family.  I initially worked in a factory while upskilling myself to break into the IT industry.  A year and a half of hard work paid of and I was able to work as a software developer in the last two years. I built everything from web applications (full-stack) to mobile applications.  There were times that I was asked to provide reports from a massive database.  This lead me to be interested in data engineering work and pursue a career as a Data Engineer.
 
 ## Skills
-Currently I am working on perfecting my skills in building complete data pipelines using **Dagster**, **DBT** and **DuckDB**/**Snowflake**/**BigQuery**/**AWS S3**.  I have worked with **Airflow** but I just prefer **Dagster** for job scheduling and orchestrations.  I can work comfortably with either **AWS** or **GCP**.
+I building robust data pipelines using **Dagster**/**Airflow**, **DBT** and **DuckDB**/**Snowflake**/**BigQuery**/**AWS S3**.  If a dashboard is required, I am comfortable with **Streamlit**.
 
 <!--
 **jackptoke/jackptoke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
