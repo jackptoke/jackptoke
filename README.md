@@ -3,11 +3,50 @@
 ## Who am I?
 Versatile IT generalist working across data analytics, data engineering, full-stack web development, and AI engineering. Currently building production AI solutions through Grampians.ai, including an AI telephone receptionist and lead qualification system for small and regional businesses. Prior enterprise experience at AME Systems spans system integration (Siemens Capital via webhooks and SOAP), Python/SQL automation, .NET MAUI and ASP.NET Core development, native Android in Kotlin, and custom reporting across Sales and Engineering. Data toolkit includes SQL, Power BI, Tableau, Plotly Dash, Streamlit, Airflow, dbt, PySpark and BigQuery, backed by a Graduate Certificate in Data Analytics (QUT) and intensive training through Le Wagon and RMIT. Bilingual Karen–English communicator comfortable translating between technical and non-technical stakeholders.
 
-## Data Engineering Skills
-I build robust ELT pipelines using **Dagster**/**Airflow**, **DBT** and **DuckDB**/**Snowflake**/**BigQuery**/**AWS S3**.  If a dashboard is required, I am comfortable with **Streamlit**.
+## Career history
+### AI/Analytics Engineer at Grampians.ai (Self-employed)
+#### Jan 2026 - Present (4 months)
+- Build AI Telephone Receptionist and lead qualification solution for small to medium sized businesses
+- Help small and regional businesses take their first step in AI adoption - from scoping to deployment.
+- Build AI chatbots, automation workflows, and live reporting systems tailored to real operational needs.
 
-## Collaboration
-If you are interested in Real Estate, I am working on a data solution that will provide insights for anyone looking to invest or buy properties in Australia.  I'm looking for someone with Web Development skills that can build a user-friendly UI.
+### ICT Application Officer at AME Systems
+#### Nov 2022 - Feb 2025 (2 years 4 months)
+- Integrated Siemens Capital wiring harness design software with existing enterprise systems via webhooks and SOAP web services, enabling seamless data flow for the Engineering department.
+- Automated component and engineering design data synchronisation using Python and SQL, eliminating manual update processes and reducing costly data inconsistencies.
+- Designed and delivered custom reports for Sales, Engineering, and cross-functional teams to drive data-informed business decisions.
+- Built a label printing application using .NET MAUI and an ASP.NET Core Minimal API backend, supporting Warehouse and Dispatch operations.
+- Developed native Android applications in Kotlin and Jetpack Compose for Zebra barcode scanner hardware, replacing the earlier .NET MAUI approach to better support industrial device requirements and reduce human error in warehouse picking.
+
+### Computer Operator at Hazeldene’s Chicken Farm
+#### Oct 2020 - May 2022 (1 year 7 months)
+- Ensure smooth operation of computerised packaging machinery and label printers
+- Maintain the packaging machinery and troubleshoot when necessary
+- Keeping records of daily production and breakdown
+
+### School Coordinator at Education Opportunity Foundation (Thai - Burmese Border)
+#### May 2015 – Jun 2019
+- Coordinated the development and rollout of an English Teacher Toolkit adopted across 20 schools to lift student confidence and English fluency.
+- Designed and delivered annual teacher training programs for 76 teachers across remote Southeast Burma, strengthening instructional practice and modernising classroom methodology.
+- Administered end-to-end payroll for all 20 schools, including in-person distribution and verification against service records to ensure accuracy and accountability.
+
+## Education
+### Graduate Certificate of Information Technology Practice (Data Analytics) | Queensland University of Technology | Completed December 2025
+### Web Development Bootcamp | Coder Academy | Completed Feb 2020
+### Bachelor of Science (Computer Science) | Victoria University | Completed 2010
+
+## Certifications
+### Data Engineering Bootcamp - Le Wagon (June 2025)
+- ETL workflows with Apache Airflow, data pipelines with dbt, PySpark for large-scale transformations, data streaming with Pub/Sub and Apache Beam.
+- Data warehousing with BigQuery, Postgres, Fivetran & Airbyte; Docker Compose for local environment management.
+### Data Engineering - RMIT(Apr 2025)
+- Implement and optimise ETL workflows using Airflow
+- Build and manage data pipelines with DBT, with a focus on modularity, testing, and version control
+- Combine Airflow and DBT together
+- Leverage PySpark for transforming massive amounts of data 
+- Implement data streaming solutions with Pub/Sub
+- Transform streaming data in real-time with Apache Beam
+- Create a data warehouse with BigQuery and set up access for your team
 
 <!--
 **jackptoke/jackptoke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
