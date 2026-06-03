@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## Who am I?
-Results-oriented Full-Stack Developer with 2 years of experience in Java Spring Boot and Kotlin mobile application development, seeking to leverage my strong backend foundation and problem-solving skills in a Data Engineering role. Proficient in building robust ETL data pipelines using DBT and Dagster/Apache Airflow with Snowflake, DuckDB/MotherDuck, BigQuery, AWS Redshift or S3 as data warehouses. Keen to contribute to innovative data projects and drive impactful insights.
+Versatile IT generalist working across data analytics, data engineering, full-stack web development, and AI engineering. Currently building production AI solutions through Grampians.ai, including an AI telephone receptionist and lead qualification system for small and regional businesses. Prior enterprise experience at AME Systems spans system integration (Siemens Capital via webhooks and SOAP), Python/SQL automation, .NET MAUI and ASP.NET Core development, native Android in Kotlin, and custom reporting across Sales and Engineering. Data toolkit includes SQL, Power BI, Tableau, Plotly Dash, Streamlit, Airflow, dbt, PySpark and BigQuery, backed by a Graduate Certificate in Data Analytics (QUT) and intensive training through Le Wagon and RMIT. Bilingual Karen–English communicator comfortable translating between technical and non-technical stakeholders.
 
 ## Data Engineering Skills
 I build robust ELT pipelines using **Dagster**/**Airflow**, **DBT** and **DuckDB**/**Snowflake**/**BigQuery**/**AWS S3**.  If a dashboard is required, I am comfortable with **Streamlit**.
