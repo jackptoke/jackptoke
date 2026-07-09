@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## Who am I?
-Versatile IT generalist working across data analytics, data engineering, full-stack web development, and AI engineering. Currently building production AI solutions through Grampians.ai, including an AI telephone receptionist and lead qualification system for small and regional businesses. Prior enterprise experience at AME Systems spans system integration (Siemens Capital via webhooks and SOAP), Python/SQL automation, .NET MAUI and ASP.NET Core development, native Android in Kotlin, and custom reporting across Sales and Engineering. Data toolkit includes SQL, Power BI, Tableau, Plotly Dash, Streamlit, Airflow, dbt, PySpark and BigQuery, backed by a Graduate Certificate in Data Analytics (QUT) and intensive training through Le Wagon and RMIT. Bilingual Karen–English communicator comfortable translating between technical and non-technical stakeholders.
+Data and IT professional with a Graduate Certificate in Data Analytics (QUT), Databricks Certified Data Engineer Associate, and hands-on experience across enterprise application support, systems integration, and business reporting. At AME Systems, integrated Siemens Capital with enterprise systems, automated data synchronisation in Python and SQL, and delivered custom reporting for Sales and Engineering. Currently building AI and data engineering solutions for regional businesses as an independent consultant. Skilled in SQL, Python, Spark, Databricks, dbt and Airflow, with reporting experience in Tableau, Plotly Dash and Streamlit. Four years of multi-site program coordination in Southeast Burma; bilingual Karen–English communicator, comfortable with stakeholders at all technical levels.
 
 ## Career history
 ### AI/Analytics Engineer at Grampians.ai (Self-employed)
