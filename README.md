@@ -4,11 +4,12 @@
 Data and IT professional with a Graduate Certificate in Data Analytics (QUT), Databricks Certified Data Engineer Associate, and hands-on experience across enterprise application support, systems integration, and business reporting. At AME Systems, integrated Siemens Capital with enterprise systems, automated data synchronisation in Python and SQL, and delivered custom reporting for Sales and Engineering. Currently building AI and data engineering solutions for regional businesses as an independent consultant. Skilled in SQL, Python, Spark, Databricks, dbt and Airflow, with reporting experience in Tableau, Plotly Dash and Streamlit. Four years of multi-site program coordination in Southeast Burma; bilingual Karen–English communicator, comfortable with stakeholders at all technical levels.
 
 ## Career history
-### AI/Analytics Engineer at Grampians.ai (Self-employed)
+### AI/Data Engineer (Freelance)
 #### Jan 2026 - Present (4 months)
-- Build AI Telephone Receptionist and lead qualification solution for small to medium sized businesses
-- Help small and regional businesses take their first step in AI adoption - from scoping to deployment.
-- Build AI chatbots, automation workflows, and live reporting systems tailored to real operational needs.
+- Build an AI telephone receptionist and lead-qualification solution for small and medium-sized businesses.
+- Help small and regional businesses take their first step in AI adoption, from scoping to deployment.
+- Build AI chatbots, automation workflows and live reporting systems tailored to real operational needs.
+
 
 ### ICT Application Officer at AME Systems
 #### Nov 2022 - Feb 2025 (2 years 4 months)
