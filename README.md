@@ -37,7 +37,14 @@ Data and IT professional with a Graduate Certificate in Data Analytics (QUT), Da
 ### Bachelor of Science (Computer Science) | Victoria University | Completed 2010
 
 ## Certifications
-### Data Engineering Bootcamp - Le Wagon (June 2025)
+### Databricks Certified Data Engineer Associate  |  Databricks Jul 2026
+- Lakehouse architecture and Delta Lake
+- ELT with Spark SQL and PySpark
+- Incremental ingestion with Auto Loader
+- Lakeflow Declarative Pipelines
+- Job orchestration with Databricks Workflows
+- Data governance with Unity Catalog
+### Data Engineering Bootcamp | Le Wagon June 2025
 - ETL workflows with Apache Airflow, data pipelines with dbt, PySpark for large-scale transformations, data streaming with Pub/Sub and Apache Beam.
 - Data warehousing with BigQuery, Postgres, Fivetran & Airbyte; Docker Compose for local environment management.
 ### Data Engineering - RMIT(Apr 2025)
